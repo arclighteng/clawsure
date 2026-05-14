@@ -1,0 +1,12 @@
+# Daily memory notes — these are session-local, not shared
+agents/*/memory/2[0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
