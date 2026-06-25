@@ -1,3 +1,14 @@
+> **⚠️ DEPRECATED (2026-06-25)**
+>
+> Clawsure is no longer actively developed. The concepts it explored — persistent agent identity,
+> per-agent memory, and role-based personas — have been absorbed into other systems:
+>
+> - **Agent personas** → [CSuite](https://github.com/arclighteng/csuite) subagent definitions
+> - **Persistent memory** → Claude Code's built-in auto-memory system
+> - **Role-based agents** → Claude Code's `~/.claude/agents/` directory (80+ role agents)
+>
+> This repo is preserved as a reference for the identity-layer pattern. No further commits are planned.
+
 # Clawsure
 
 **Persistent named agents with souls, memory, and voice.**
